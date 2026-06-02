@@ -110,7 +110,6 @@ transition: color 0.3s ease;
 footer a:hover {
 color: #ffc107;
 }
-/* Адаптивность */
 @media (max-width: 768px) {
 #home {
 min-height: 300px;
